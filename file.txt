@@ -1,2 +1,2 @@
-hola a todos, esta es una prueba
-
+hola a  todos.
+ahora no pide pass
